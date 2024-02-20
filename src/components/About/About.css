@@ -44,6 +44,13 @@
   border: 2px solid rgb(13, 222, 222);
   transition: 0.5s;
 }
+.button2:hover {
+  background-color: #000;
+  color: rgb(13, 222, 222);
+  border: 2px solid rgb(13, 222, 222);
+  box-shadow: 0 0 50px rgb(13, 222, 222);
+  transition: 0.5s;
+}
 .firstSection {
   display: flex;
   flex-direction: column;
