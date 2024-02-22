@@ -110,3 +110,9 @@ p {
 .git {
   color: black;
 }
+
+@media (max-width: 767px) {
+  .secondContent {
+    justify-content: center;
+  }
+}

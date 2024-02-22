@@ -76,7 +76,11 @@ function About() {
         </div>
       </div>
       <div className="buttons d-flex flex-wrap">
-        <a href="#" className="btn button1 button">
+        <a
+          href="https://wa.me/552112997245856"
+          target="blank"
+          className="btn button1 button"
+        >
           ENTRE EM CONTATO
         </a>
         <button className="btn button2 button">DOWNLOAD CV</button>
