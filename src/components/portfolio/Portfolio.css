@@ -1,0 +1,10 @@
+.portfolioSection {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.firstSectionPortfolio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
